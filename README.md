@@ -8,7 +8,7 @@ Our configuration consists of 16 points on the sphere, placed at the vertices of
 
 Our method relies on block diagonalizing the Hessian matrix of the optimization problem by means of linear representations of the group of symmetries of the critical configuration, and then classifying the configuration by using Gröbner bases and interval arithmetic to determine the sign of the eigenvalues of each block.
 
-See the [presentation](albatross_presented.pdf) at [Albatross](https://albatross-2026.sciencesconf.org/) for more details. (to download the presentation: click the pdf and then click the "Download raw file" icon.)
+See the [presentation](albatross_presented.pdf) at [Albatross](https://albatross-2026.sciencesconf.org/) for more details. (to download the presentation: click the pdf link and then click the "Download raw file" icon.)
 
 The code and a preprint at arXiv will be available soon.
 
